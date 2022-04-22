@@ -1,10 +1,22 @@
 .index-hero {
-    position: relative;
-    background-color:aliceblue;
-    font-size: 17px;
-    padding-left: 400px;
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 85px;
+    padding-left: 350px;
 }
 .cow {
-    width: 1045px;
-    height: 500px;
+    width: 1583px;
+    height: 700px;
+    
+}
+.dis-link {
+    text-decoration: none;
+    background-color: #E8EAF6;
+    color: #303f9f;
+    border-radius: 10px;
+}
+.footer {
+    position: absolute;
+    padding-left: 575px;
 }

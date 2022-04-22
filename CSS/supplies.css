@@ -1,0 +1,19 @@
+.sec-bgpic .bg-pic {
+    width: 1583px;
+    height: 700px;
+}
+.supplies-hero {
+    padding: 60px 45px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+.supplies-content {
+    position: absolute;
+    max-width: 760px;
+    padding-bottom: 700px;    
+}
+.features {
+    background-color: none;
+    padding: 60px 45px;
+}
